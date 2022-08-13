@@ -13,10 +13,28 @@
 4. ### Notifying the authorities
 
 ## 1. Data acquisition and preparation
+### Pothole data/images taken from Kaggle and used 3D software to rotate and multiply images
+
+<p>&nbsp;</p>
+
 
 ## 2. Model training and evaluation
+<img align="left" alt="GIF" src="https://github.com/adi-code22/Pothole-Detection/blob/main/assets/git_img/teachable.PNG?raw=true" width="600"/>
+
+### Fine tuned the model using Teachable Machine framework, a Conolutional Neural Network model was used considering its efficiency in Image Classification.
+
+- Epoch: 50
+- Batch size: 16
+- Training rate: 0.001
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## 3. Model deployment for realtime detection
+
+<img align="left" alt="GIF" src="https://github.com/adi-code22/Pothole-Detection/blob/main/assets/git_img/hole.PNG?raw=true" height="500"/>
+<img align="left" alt="GIF" src="https://github.com/adi-code22/Pothole-Detection/blob/main/assets/git_img/no%20pothole.PNG?raw=true" height="500"/>
+
 
 ## 4. Notifying the authorities
 
