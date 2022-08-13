@@ -52,7 +52,9 @@ CNN model was then integrated into the Flutter app using the [tflite](https://pu
 - Now it detects potholes along with its severity.
 - Pothole location is also noted by the software.
 - The image can be fed from either the camera or gallery
-- The framework also supports image input from surveilance cameras, drones or any other source as image format.
+- The framework also supports image input from surveilance cameras, drones or any other source as image format.\
+
+
 
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;
 
