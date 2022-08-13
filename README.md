@@ -43,7 +43,7 @@
 <img align="left" alt="GIF" src="https://github.com/adi-code22/Pothole-Detection/blob/main/assets/git_img/hole.PNG?raw=true" height="500"/>
 <img align="left" alt="GIF" src="https://github.com/adi-code22/Pothole-Detection/blob/main/assets/git_img/no%20pothole.PNG?raw=true" height="500"/>
 
-<p>&nbsp;</p>
+
 
 ### Validation Screen
 
